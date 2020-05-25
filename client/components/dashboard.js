@@ -7,7 +7,7 @@ const Dashboard = () => {
     <div>
       <div id="title"> Dashboard </div>
       <Link to="/dashboard/profile/2b8db706-4439-47bc-a0b7-451e0a96e71a"> Go To Profile </Link>
-      <Link to="/dashboard"> Go To Main </Link>
+      <Link to="/dashboard/main"> Go To Main </Link>
     </div>
   )
 }
